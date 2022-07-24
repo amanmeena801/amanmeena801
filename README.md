@@ -35,8 +35,9 @@
 
 ### 😂 Here is a random joke that'll make you laugh!
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
+<div align="center">
+<img height="165em" width="700em" src="https://readme-jokes.vercel.app/api"/>
+</div>
 ##
 
 <div> 
