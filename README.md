@@ -27,7 +27,7 @@ https://picrew.me/shareImg/org/202207/1279965_UCfkVOYj.png
 ### Here is a random joke that'll make you laugh!😂
 
 <div align="left">
-<img height="165em" width="700em" src="https://readme-jokes.vercel.app/api"/>
+<img height="165em" width="500" src="https://readme-jokes.vercel.app/api"/>
 
 
 </div>
