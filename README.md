@@ -21,8 +21,8 @@
  <a href="https://discordapp.com/users/Aman Meena#8159" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:aman.meena801@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<img align="right" alt="Aman-gif" height="200" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/1279965_UCfkVOYj.png">
+https://picrew.me/shareImg/org/202207/1279965_UCfkVOYj.png
+<img align="right" alt="Aman-gif" height="200" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/404676_vxPRQioM.png">
 
 ### Here is a random joke that'll make you laugh!😂
 
