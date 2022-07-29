@@ -27,8 +27,6 @@
 
 <div align="left">
 <img height="165em" width="50%" src="https://readme-jokes.vercel.app/api"/>
-
-
 </div>
 
 ##
